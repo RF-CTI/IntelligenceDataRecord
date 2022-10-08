@@ -1,0 +1,75 @@
+domain,ioc,uri_path,timestamp,source
+books.theb00kshop.tk,Possible Cobalt Strike C2 Fronted Domain,/images/tracking.png,1664640000,C2IntelFeeds
+cdn.caeq.cc,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,1664640000,C2IntelFeeds
+cs.bluerivershealthcare.com,Possible Cobalt Strike C2 Fronted Domain,/|ROUTE|/content/myuhc/en/secure/claims/Index,1664640000,C2IntelFeeds
+prd.myuhc.com,Possible Cobalt Strike C2 Fronting Domain,/|ROUTE|/content/myuhc/en/secure/claims/Index,1664640000,C2IntelFeeds
+service-ibovzlqe-1312654096.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login,1664640000,C2IntelFeeds
+www.updategateway.com,Possible Cobalt Strike C2 Domain,/ca,1664640000,C2IntelFeeds
+zzte.tk,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php,1664640000,C2IntelFeeds
+buworomu.com,Possible Cobalt Strike C2 Fronted Domain,/profile.css,1664726400,C2IntelFeeds
+cs91.xxuz.com,Possible Cobalt Strike C2 Domain,/cx,1664726400,C2IntelFeeds
+gmw.cn,Possible Cobalt Strike C2 Fronting Domain,/profile.css,1664726400,C2IntelFeeds
+service-lagbs0nj-1312435925.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,1664726400,C2IntelFeeds
+service-nplaztqm-1252551592.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,1664726400,C2IntelFeeds
+starwberrylong.com,Possible Cobalt Strike C2 Domain,/calculate/v7.54/XKHD1T4K,1664726400,C2IntelFeeds
+020-rce500.r1z.rocks,Possible Cobalt Strike C2 Fronting Domain,/css/jquery.min.js,1664812800,C2IntelFeeds
+d3-up.ssndob.cn.com,Possible Cobalt Strike C2 Fronted Domain,/css/jquery.min.js,1664812800,C2IntelFeeds
+originupdate.azurewebsites.net,Possible Cobalt Strike C2 Domain,/api/getupdate,1664812800,C2IntelFeeds
+update-2.kaspersky360.com,Possible Cobalt Strike C2 Fronted Domain,/css/jquery.min.js,1664812800,C2IntelFeeds
+cehocihit.com,Possible Cobalt Strike C2 Fronted Domain,/ro,1664899200,C2IntelFeeds
+www.ggdddhm.tk,Possible Cobalt Strike C2 Fronted Domain,/search/,1664899200,C2IntelFeeds
+xamayojir.com,Possible Cobalt Strike C2 Fronted Domain,/faq.css,1664899200,C2IntelFeeds
+xuluxetas.com,Possible Cobalt Strike C2 Fronted Domain,/dhl,1664899200,C2IntelFeeds
+youtube.com,Possible Cobalt Strike C2 Fronting Domain,/dhl,1664899200,C2IntelFeeds
+yuwajeni.com,Possible Cobalt Strike C2 Fronted Domain,/html,1664899200,C2IntelFeeds
+360.cn,Possible Cobalt Strike C2 Fronting Domain,/html,1664899200,C2IntelFeeds
+api84984154894121054.securesystem-dnsproviders.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2021/10/RuZbCUx2OqFLLE7-2KRj9mCtgH,1664899200,C2IntelFeeds
+google.com.br,Possible Cobalt Strike C2 Fronting Domain,/faq.css,1664899200,C2IntelFeeds
+google.de,Possible Cobalt Strike C2 Fronting Domain,/ro,1664899200,C2IntelFeeds
+5856681773b62124.azureedge.net,Possible Cobalt Strike C2 Domain,/safebrowsing/OYtfbWi4v/1AcQmIAvEQBZ7S32n9128EkQwwnBE,1664985600,C2IntelFeeds
+cdn.atlassian.com,Possible Cobalt Strike C2 Fronted Domain,/downloads/upgrades,1664985600,C2IntelFeeds
+cdn.az.gov,Possible Cobalt Strike C2 Fronted Domain,/downloads/upgrades,1664985600,C2IntelFeeds
+cdn.yougov.com,Possible Cobalt Strike C2 Fronted Domain,/downloads/upgrades,1664985600,C2IntelFeeds
+cdn.zendesk.com,Possible Cobalt Strike C2 Fronted Domain,/downloads/upgrades,1664985600,C2IntelFeeds
+cs.pandakill.tk,Possible Cobalt Strike C2 Domain,/api/3,1664985600,C2IntelFeeds
+d2y4qr3p3fk7fx.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/OYtfbWi4v/1AcQmIAvEQBZ7S32n9128EkQwwnBE,1664985600,C2IntelFeeds
+d3k0cbyjjyeqhj.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/OYtfbWi4v/1AcQmIAvEQBZ7S32n9128EkQwwnBE,1664985600,C2IntelFeeds
+data.hik.icu,Possible Cobalt Strike C2 Domain,/dpixel,1664985600,C2IntelFeeds
+dns.cl0udflare.tk,Possible Cobalt Strike C2 Fronting Domain,/downloads/upgrades,1664985600,C2IntelFeeds
+mx.weixin3.bond,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2022/10/29136388_,1664985600,C2IntelFeeds
+post.i.api.ahrtv.cn,Possible Cobalt Strike C2 Domain,/themes/default/js/js.cookie_8.js,1664985600,C2IntelFeeds
+tiwejob.com,Possible Cobalt Strike C2 Domain,/Link/weblogs/J7V4U8GY3,1664985600,C2IntelFeeds
+www.sf-expross.com,Possible Cobalt Strike C2 Domain,/match,1664985600,C2IntelFeeds
+molibdenstructure.com,Possible Cobalt Strike C2 Domain,/fam_calendar,1664985600,C2IntelFeeds
+molibdenstructure.com,Possible Cobalt Strike C2 Fronting Domain,/fam_calendar,1664985600,C2IntelFeeds
+www.molibdenstructure.com,Possible Cobalt Strike C2 Fronted Domain,/fam_calendar,1664985600,C2IntelFeeds
+d2fbg7ftk2kfi3.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/2f3KH/Zpr5Xgve6a3O6m9TRgosNrjdJxOGw,1665072000,C2IntelFeeds
+d2nhdrdxt2badj.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/2f3KH/Zpr5Xgve6a3O6m9TRgosNrjdJxOGw,1665072000,C2IntelFeeds
+d3m6lc4k7daurv.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/2f3KH/Zpr5Xgve6a3O6m9TRgosNrjdJxOGw,1665072000,C2IntelFeeds
+kiritektower.com,Possible Cobalt Strike C2 Domain,/dhl.js,1665072000,C2IntelFeeds
+kiritektower.com,Possible Cobalt Strike C2 Fronting Domain,/cr.js,1665072000,C2IntelFeeds
+msn.com,Possible Cobalt Strike C2 Fronting Domain,/d_config.html,1665072000,C2IntelFeeds
+secure.kiritektower.com,Possible Cobalt Strike C2 Fronted Domain,/cr.js,1665072000,C2IntelFeeds
+softsupdate.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,1665072000,C2IntelFeeds
+vewevas.com,Possible Cobalt Strike C2 Fronted Domain,/d_config.html,1665072000,C2IntelFeeds
+www.checkupdates50.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,1665072000,C2IntelFeeds
+www.kiritektower.com,Possible Cobalt Strike C2 Fronted Domain,/cr.js,1665072000,C2IntelFeeds
+allgroupservices.com,Possible Cobalt Strike C2 Domain,/styles,1665072000,C2IntelFeeds
+eonline-cdn.com,Possible Cobalt Strike C2 Domain,/eso.html,1665072000,C2IntelFeeds
+alyaskafond.su,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,1665158400,C2IntelFeeds
+anushl.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,1665158400,C2IntelFeeds
+cdn.healthcare.se,Possible Cobalt Strike C2 Domain,/push,1665158400,C2IntelFeeds
+connect.bakerbottssecure.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,1665158400,C2IntelFeeds
+mednet.uclahealth.org,Possible Cobalt Strike C2 Domain,/g.pixel,1665158400,C2IntelFeeds
+ndss.buzz,Possible Cobalt Strike C2 Domain,/image/,1665158400,C2IntelFeeds
+r1dark.ssndob.cn.com,Possible Cobalt Strike C2 Domain,/owa/ZA8T7tCWUqxk0xr5g8tqU7dMwNP5It5ebQtgDh,1665158400,C2IntelFeeds
+r2dark.ssndob.cn.com,Possible Cobalt Strike C2 Domain,/owa/ZA8T7tCWUqxk0xr5g8tqU7dMwNP5It5ebQtgDh,1665158400,C2IntelFeeds
+service-goqpel8p-1313519678.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login,1665158400,C2IntelFeeds
+vop774578104.softether.net,Possible Cobalt Strike C2 Domain,/pixel,1665158400,C2IntelFeeds
+www.axiomortgagebankers.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,1665158400,C2IntelFeeds
+cdn.atlassian.com,Possible Cobalt Strike C2 Fronted Domain,/safebrowsing/cb3Tyr/Pccil8AOt56OLlVrIMHME5W,1665158400,C2IntelFeeds
+cdn.az.gov,Possible Cobalt Strike C2 Fronted Domain,/safebrowsing/cb3Tyr/Pccil8AOt56OLlVrIMHME5W,1665158400,C2IntelFeeds
+cdn.yougov.com,Possible Cobalt Strike C2 Fronted Domain,/safebrowsing/cb3Tyr/Pccil8AOt56OLlVrIMHME5W,1665158400,C2IntelFeeds
+d2mhkyo3wllxj8.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/safebrowsing/cb3Tyr/Pccil8AOt56OLlVrIMHME5W,1665158400,C2IntelFeeds
+kiritektower.com,Possible Cobalt Strike C2 Fronting Domain,/avatars.js,1665158400,C2IntelFeeds
+www.kiritektower.com,Possible Cobalt Strike C2 Fronted Domain,/avatars.js,1665158400,C2IntelFeeds
