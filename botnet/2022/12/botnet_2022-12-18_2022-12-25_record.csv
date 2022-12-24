@@ -1,0 +1,164 @@
+ip_address,port,hostname,country,as_number,as_name,status,first_seen,timestamp,malware,source
+163.182.177.80,443,163-182-177-80-cstmr.msfiber.net,US,18615,MAINSTREAM-FIBER,offline,1666130097,1671321600,QakBot,Feodotracker
+147.148.234.231,2222,,GB,2856,BT-UK-AS BTnet UK Regional network,offline,1670945357,1671321600,QakBot,Feodotracker
+70.120.228.205,443,cpe-70-120-228-205.elp.res.rr.com,US,11427,TWC-11427-TEXAS,offline,1670828566,1671321600,QakBot,Feodotracker
+92.186.69.229,2222,229.pool92-186-69.dynamic.orange.es,ES,12479,UNI2-AS,offline,1669804968,1671321600,QakBot,Feodotracker
+76.100.159.250,443,c-76-100-159-250.hsd1.de.comcast.net,US,7922,COMCAST-7922,offline,1669642329,1671321600,QakBot,Feodotracker
+78.92.133.215,443,4E5C85D7.catv.pool.telekom.hu,HU,5483,MAGYAR-TELEKOM-MAIN-AS Magyar Telekom Nyrt.,online,1668537616,1671321600,QakBot,Feodotracker
+152.171.41.171,443,171-41-171-152.fibertel.com.ar,AR,7303,Telecom Argentina S.A.,online,1667949464,1671321600,QakBot,Feodotracker
+91.68.227.219,443,219.227.68.91.rev.sfr.net,FR,15557,LDCOMNET,offline,1667490205,1671321600,QakBot,Feodotracker
+75.156.125.215,995,d75-156-125-215.bchsia.telus.net,CA,852,TELUS Communications,offline,1667490200,1671321600,QakBot,Feodotracker
+62.35.100.38,443,i16-les04-th2-62-35-100-38.sfr.lns.abo.bbox.fr,FR,5410,BOUYGTEL-ISP,offline,1667407456,1671321600,QakBot,Feodotracker
+76.125.91.160,443,c-76-125-91-160.hsd1.ar.comcast.net,US,7922,COMCAST-7922,offline,1667315534,1671321600,QakBot,Feodotracker
+193.32.212.114,443,,ES,206318,ASN-CASTTELECOM,offline,1670667548,1671321600,QakBot,Feodotracker
+85.7.61.22,2222,22.61.7.85.dynamic.wline.res.cust.swisscom.ch,CH,3303,SWISSCOM Swisscom Switzerland Ltd,online,1669642327,1671321600,QakBot,Feodotracker
+87.243.146.59,443,87-243-146-59.ainet.at,AT,35370,AINET-AS,online,1668753916,1671321600,QakBot,Feodotracker
+136.35.241.159,443,136-35-241-159.googlefiber.net,US,16591,GOOGLE-FIBER,online,1668710971,1671321600,QakBot,Feodotracker
+61.92.123.169,443,061092123169.ctinets.com,HK,9269,HKBN-AS-AP Hong Kong Broadband Network Ltd.,offline,1668517355,1671321600,QakBot,Feodotracker
+109.150.179.181,2222,host109-150-179-181.range109-150.btcentralplus.com,GB,2856,BT-UK-AS BTnet UK Regional network,offline,1671126382,1671321600,QakBot,Feodotracker
+45.61.184.24,443,,US,53667,PONYNET,online,1671297941,1671321600,BumbleBee,Feodotracker
+27.109.19.90,2078,,IN,17625,BLAZENET-IN-AP BlazeNets Network,offline,1666879742,1671408000,QakBot,Feodotracker
+83.92.85.93,443,83-92-85-93-cable.dk.customer.tdc.net,DK,3292,TDC TDC AS,offline,1669749163,1671408000,QakBot,Feodotracker
+90.66.229.185,2222,lfbn-lyo-1-2066-185.w90-66.abo.wanadoo.fr,FR,3215,France Telecom - Orange,online,1670648341,1671408000,QakBot,Feodotracker
+90.79.129.166,2222,lfbn-idf1-1-1187-166.w90-79.abo.wanadoo.fr,FR,3215,France Telecom - Orange,offline,1670671738,1671408000,QakBot,Feodotracker
+208.180.17.32,2222,,US,19108,SUDDENLINK-COMMUNICATIONS,online,1670853241,1671408000,QakBot,Feodotracker
+184.189.41.80,443,wsip-184-189-41-80.hr.hr.cox.net,US,22773,ASN-CXA-ALL-CCI-22773-RDC,online,1670855047,1671408000,QakBot,Feodotracker
+181.118.183.50,443,host50.181-118-183.nodosud.com.ar,AR,27953,NODOSUD S.A,online,1670883861,1671408000,QakBot,Feodotracker
+69.159.156.133,2222,bras-base-mtrlpq2848w-grc-52-69-159-156-133.dsl.bell.ca,CA,577,BACOM,online,1670938156,1671408000,QakBot,Feodotracker
+78.193.176.97,443,cri75-7-78-193-176-97.fbxo.proxad.net,FR,12322,PROXAD,offline,1671125483,1671408000,QakBot,Feodotracker
+217.128.200.114,2222,lstlambert-658-1-110-114.w217-128.abo.wanadoo.fr,FR,3215,France Telecom - Orange,online,1671175887,1671408000,QakBot,Feodotracker
+45.141.58.139,443,,SC,213373,IPCONNECT,online,1671384339,1671408000,BumbleBee,Feodotracker
+87.220.205.65,2222,65.205.220.87.dynamic.jazztel.es,ES,12479,UNI2-AS,online,1671456948,1671408000,QakBot,Feodotracker
+178.153.5.54,443,,QA,42298,GCC-MPLS-PEERING GCC MPLS peering,online,1671456949,1671408000,QakBot,Feodotracker
+37.15.128.31,2222,31.128.15.37.dynamic.jazztel.es,ES,12479,UNI2-AS,online,1671456949,1671408000,QakBot,Feodotracker
+174.112.22.106,2078,cpebc4dfb436373-cmbc4dfb436370.cpe.net.cable.rogers.com,CA,812,ROGERS-COMMUNICATIONS,online,1671456949,1671408000,QakBot,Feodotracker
+176.44.121.220,995,,SA,25019,SAUDINETSTC-AS,online,1671456950,1671408000,QakBot,Feodotracker
+78.100.238.92,995,,QA,42298,GCC-MPLS-PEERING GCC MPLS peering,online,1671456954,1671408000,QakBot,Feodotracker
+90.78.138.217,2222,lfbn-poi-1-1197-217.w90-78.abo.wanadoo.fr,FR,3215,France Telecom - Orange,online,1671456955,1671408000,QakBot,Feodotracker
+90.116.219.167,2222,lfbn-nic-1-391-167.w90-116.abo.wanadoo.fr,FR,3215,France Telecom - Orange,offline,1669707791,1671408000,QakBot,Feodotracker
+193.251.52.34,2222,laubervilliers-656-1-167-34.w193-251.abo.wanadoo.fr,FR,3215,France Telecom - Orange,offline,1669392762,1671408000,QakBot,Feodotracker
+109.219.126.249,2222,lfbn-ami-1-672-249.w109-219.abo.wanadoo.fr,FR,3215,France Telecom - Orange,offline,1669218891,1671408000,QakBot,Feodotracker
+47.203.227.114,443,,US,5650,FRONTIER-FRTR,online,1669212896,1671408000,QakBot,Feodotracker
+65.20.175.208,443,,IQ,203214,HULUMTELE,online,1667310326,1671408000,QakBot,Feodotracker
+46.162.109.183,443,46-162-109-183.cust.bredband2.com,SE,29518,BREDBAND2,offline,1669110629,1671408000,QakBot,Feodotracker
+67.61.71.201,443,67-61-67-61-71-201.cpe.sparklight.net,US,11492,CABLEONE,online,1670702957,1671408000,QakBot,Feodotracker
+45.152.16.14,443,xdsl.45.152.16.14.srvc.fr,FR,57809,SERVEURCOM,offline,1671094861,1671408000,QakBot,Feodotracker
+128.127.21.57,443,,FR,60032,CORIOLIS-AS,online,1671435896,1671408000,QakBot,Feodotracker
+84.108.173.79,443,bzq-84-108-173-79.cablep.bezeqint.net,IL,8551,BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone,online,1671456955,1671408000,QakBot,Feodotracker
+216.36.153.248,443,749be8b312c3.cpe.westmancom.com,CA,19016,WCG-AS,online,1671458397,1671408000,QakBot,Feodotracker
+83.7.52.202,443,abfo202.neoplus.adsl.tpnet.pl,PL,5617,TPNET,online,1671464699,1671408000,QakBot,Feodotracker
+76.170.252.153,995,cpe-76-170-252-153.socal.res.rr.com,US,20001,TWC-20001-PACWEST,online,1671456956,1671408000,QakBot,Feodotracker
+92.185.204.18,2078,18.pool92-185-204.dynamic.orange.es,ES,12479,UNI2-AS,online,1667223841,1671408000,QakBot,Feodotracker
+70.66.199.12,443,S0106f0f2490b5fd3.du.shawcable.net,CA,6327,SHAW,online,1667564965,1671408000,QakBot,Feodotracker
+67.10.175.47,2222,cpe-67-10-175-47.satx.res.rr.com,US,11427,TWC-11427-TEXAS,online,1667564978,1671408000,QakBot,Feodotracker
+88.126.94.4,50000,msi35-1_migr-88-126-94-4.fbx.proxad.net,FR,12322,PROXAD,online,1668440514,1671408000,QakBot,Feodotracker
+82.34.170.37,443,dudl-14-b2-v4wan-165808-cust2596.vm31.cable.virginm.net,GB,5089,NTL,offline,1668451321,1671408000,QakBot,Feodotracker
+93.24.192.142,20,142.192.24.93.rev.sfr.net,FR,15557,LDCOMNET,offline,1668498129,1671408000,QakBot,Feodotracker
+70.121.198.103,2078,cpe-70-121-198-103.satx.res.rr.com,US,11427,TWC-11427-TEXAS,online,1668523264,1671408000,QakBot,Feodotracker
+76.184.95.190,993,cpe-76-184-95-190.tx.res.rr.com,US,11427,TWC-11427-TEXAS,online,1668710969,1671408000,QakBot,Feodotracker
+98.187.21.2,443,wsip-98-187-21-2.ri.ri.cox.net,US,22773,ASN-CXA-ALL-CCI-22773-RDC,online,1668710972,1671408000,QakBot,Feodotracker
+85.241.180.94,443,bl8-180-94.dsl.telepac.pt,PT,3243,MEO-RESIDENCIAL,online,1667243516,1671408000,QakBot,Feodotracker
+74.33.196.114,443,74-33-196-114.dr02.glvv.ny.frontiernet.net,US,5650,FRONTIER-FRTR,online,1671456956,1671408000,QakBot,Feodotracker
+64.123.103.123,443,64-123-103-123.tisd.net,US,17064,TISD-VIC,online,1666707031,1671494400,QakBot,Feodotracker
+144.64.226.144,443,bl23-226-144.dsl.telepac.pt,PT,3243,MEO-RESIDENCIAL,offline,1671527165,1671494400,QakBot,Feodotracker
+109.220.196.24,2222,lfbn-tou-1-1605-24.w109-220.abo.wanadoo.fr,FR,3215,France Telecom - Orange,online,1671524469,1671494400,QakBot,Feodotracker
+93.156.97.50,443,cm-93-156-97-50.telecable.es,ES,12946,TELECABLE Spain,online,1671523563,1671494400,QakBot,Feodotracker
+90.27.44.76,2222,lfbn-nan-1-836-76.w90-27.abo.wanadoo.fr,FR,3215,France Telecom - Orange,offline,1671522668,1671494400,QakBot,Feodotracker
+86.99.15.254,2222,,AE,5384,EMIRATES-INTERNET Emirates Internet,offline,1671511514,1671494400,QakBot,Feodotracker
+83.110.95.209,995,bba453345.alshamil.net.ae,AE,5384,EMIRATES-INTERNET Emirates Internet,offline,1671508818,1671494400,QakBot,Feodotracker
+2.14.96.234,2222,arennes-651-1-94-234.w2-14.abo.wanadoo.fr,FR,3215,France Telecom - Orange,online,1671479465,1671494400,QakBot,Feodotracker
+176.79.48.60,443,dsl-48-60.bl27.telepac.pt,PT,3243,MEO-RESIDENCIAL,online,1671479465,1671494400,QakBot,Feodotracker
+90.48.151.17,2222,lfbn-mon-1-1048-17.w90-48.abo.wanadoo.fr,FR,3215,France Telecom - Orange,offline,1671474601,1671494400,QakBot,Feodotracker
+54.38.137.14,443,,PL,16276,OVH,online,1671470740,1671494400,BumbleBee,Feodotracker
+87.223.95.66,443,66.95.223.87.dynamic.jazztel.es,ES,12479,UNI2-AS,offline,1671470112,1671494400,QakBot,Feodotracker
+73.214.105.238,443,,US,7922,COMCAST-7922,offline,1671469556,1671494400,QakBot,Feodotracker
+92.154.45.81,2222,laubervilliers-656-1-241-81.w92-154.abo.wanadoo.fr,FR,3215,France Telecom - Orange,online,1671096107,1671494400,QakBot,Feodotracker
+62.35.67.88,443,i16-les04-th2-62-35-67-88.sfr.lns.abo.bbox.fr,FR,5410,BOUYGTEL-ISP,online,1668499331,1671494400,QakBot,Feodotracker
+92.149.205.238,2222,atoulouse-658-1-146-238.w92-149.abo.wanadoo.fr,FR,3215,France Telecom - Orange,online,1668451344,1671494400,QakBot,Feodotracker
+70.181.149.227,443,ip70-181-149-227.sd.sd.cox.net,US,22773,ASN-CXA-ALL-CCI-22773-RDC,offline,1667520212,1671494400,QakBot,Feodotracker
+88.122.208.197,32100,arb39-1_migr-88-122-208-197.fbx.proxad.net,FR,12322,PROXAD,offline,1667490199,1671494400,QakBot,Feodotracker
+87.220.68.51,2222,51.68.220.87.dynamic.jazztel.es,ES,12479,UNI2-AS,online,1667490197,1671494400,QakBot,Feodotracker
+75.84.234.68,443,075-084-234-068.res.spectrum.com,US,20001,TWC-20001-PACWEST,online,1666713037,1671494400,QakBot,Feodotracker
+98.207.190.55,443,c-98-207-190-55.hsd1.ca.comcast.net,US,7922,COMCAST-7922,online,1666628714,1671494400,QakBot,Feodotracker
+103.42.86.42,995,,IN,133660,PRISAC-AS-AP PRISAC AVIATION TECHNOLOGIES PRIVATE LIMITED,offline,1671513315,1671494400,QakBot,Feodotracker
+103.212.19.254,995,254-19-212-103.vnetcorporation.com,IN,132956,VNET-AS V NET NETWORKS PVT LTD,offline,1671509720,1671494400,QakBot,Feodotracker
+171.97.42.82,443,ppp-171-97-42-82.revip8.asianet.co.th,TH,17552,TRUEONLINE-AS-AP True Online,offline,1671506135,1671494400,QakBot,Feodotracker
+77.124.17.122,443,IGLD-77-124-17-122.inter.net.il,IL,12400,PARTNER-AS,online,1671500667,1671494400,QakBot,Feodotracker
+76.11.14.249,443,host-76-11-14-249.public.eastlink.ca,CA,11260,EASTLINK-HSI,offline,1670074756,1671494400,QakBot,Feodotracker
+72.11.161.70,443,72-11-161-70.cpe.axion.ca,CA,30466,CAXD,online,1669738555,1671494400,QakBot,Feodotracker
+183.82.100.110,2222,183.82.100.110.actcorp.in,IN,18209,BEAMTELE-AS-AP Atria Convergence Technologies pvt ltd,offline,1668663691,1671494400,QakBot,Feodotracker
+86.160.253.56,443,host86-160-253-56.range86-160.btcentralplus.com,GB,2856,BT-UK-AS BTnet UK Regional network,online,1671532223,1671494400,QakBot,Feodotracker
+86.183.251.169,2222,host86-183-251-169.range86-183.btcentralplus.com,GB,2856,BT-UK-AS BTnet UK Regional network,online,1671534931,1671494400,QakBot,Feodotracker
+185.135.120.81,443,185-135-120-81.laguna.net.pl,PL,60534,LAGUNA-AS,offline,1670138813,1671580800,QakBot,Feodotracker
+201.137.206.40,443,dsl-201-137-206-40-dyn.prod-infinitum.com.mx,MX,8151,Uninet S.A. de C.V.,offline,1671634305,1671580800,QakBot,Feodotracker
+70.51.136.204,2222,bras-vprn-ckvlon0127w-lp130-06-70-51-136-204.dsl.bell.ca,CA,577,BACOM,offline,1671633386,1671580800,QakBot,Feodotracker
+90.4.190.217,2222,aclermont-ferrand-654-1-526-217.w90-4.abo.wanadoo.fr,FR,3215,France Telecom - Orange,online,1671633038,1671580800,QakBot,Feodotracker
+76.68.151.148,2222,bras-base-hullpq2102w-grc-12-76-68-151-148.dsl.bell.ca,CA,577,BACOM,online,1671628905,1671580800,QakBot,Feodotracker
+176.177.136.35,443,,FR,5410,BOUYGTEL-ISP,offline,1671619460,1671580800,QakBot,Feodotracker
+47.16.68.188,2222,ool-2f1044bc.dyn.optonline.net,US,6128,CABLE-NET-1,offline,1671583540,1671580800,QakBot,Feodotracker
+122.186.71.98,443,nsg-corporate-98.71.186.122.airtel.in,IN,9498,BBIL-AP BHARTI Airtel Ltd.,offline,1671578166,1671580800,QakBot,Feodotracker
+190.199.187.93,2222,190-199-187-93.scr-03-p74.cantv.net,VE,8048,"CANTV Servicios, Venezuela",online,1671562275,1671580800,QakBot,Feodotracker
+109.50.131.204,2222,a109-50-131-204.cpe.netcabo.pt,PT,2860,NOS_COMUNICACOES,online,1671562272,1671580800,QakBot,Feodotracker
+87.252.106.197,995,,IT,48544,TECNOADSL-AS,online,1671562272,1671580800,QakBot,Feodotracker
+92.8.187.85,2222,host-92-8-187-85.as13285.net,GB,13285,OPALTELECOM-AS TalkTalk Communications Limited,online,1671562271,1671580800,QakBot,Feodotracker
+142.118.49.193,2222,lnsm4-toronto63-142-118-49-193.internet.virginmobile.ca,CA,577,BACOM,online,1671562271,1671580800,QakBot,Feodotracker
+69.165.145.141,443,69-165-145-141.dsl.teksavvy.com,CA,5645,TEKSAVVY,offline,1671562268,1671580800,QakBot,Feodotracker
+85.231.105.49,2222,c-3169e755.138552-0-69706f6e6c79.bbcust.telenor.se,SE,2119,TELENOR-NEXTEL Telenor Norge AS,online,1670340976,1671580800,QakBot,Feodotracker
+65.30.139.145,995,gen-065-030-139-145.res.spectrum.com,US,10796,TWC-10796-MIDWEST,offline,1670251709,1671580800,QakBot,Feodotracker
+92.98.72.220,2222,,AE,5384,EMIRATES-INTERNET Emirates Internet,offline,1670244382,1671580800,QakBot,Feodotracker
+82.11.242.219,443,cpc82785-midd19-2-0-cust730.11-1.cable.virginm.net,GB,5089,NTL,offline,1669996638,1671580800,QakBot,Feodotracker
+83.79.150.24,2222,24.150.79.83.dynamic.wline.res.cust.swisscom.ch,CH,3303,SWISSCOM Swisscom Switzerland Ltd,offline,1669629415,1671580800,QakBot,Feodotracker
+184.155.91.69,443,184-155-91-69.cpe.sparklight.net,US,11492,CABLEONE,online,1668778837,1671580800,QakBot,Feodotracker
+75.99.125.238,2222,ool-4b637dee.static.optonline.net,US,6128,CABLE-NET-1,online,1667490202,1671580800,QakBot,Feodotracker
+68.103.242.126,995,ip68-103-242-126.ks.ok.cox.net,US,22773,ASN-CXA-ALL-CCI-22773-RDC,online,1667446658,1671580800,QakBot,Feodotracker
+90.165.109.4,2222,4.pool90-165-109.dynamic.orange.es,ES,12479,UNI2-AS,offline,1666615139,1671580800,QakBot,Feodotracker
+78.18.42.55,443,sky-78-18-42-55.bas512.cwt.btireland.net,IE,2110,"AS-BTIRE BT Ireland was previously known as Esat Net, EUnet Ireland & IEUnet.",online,1671636097,1671580800,QakBot,Feodotracker
+91.254.132.23,443,,IT,1267,ASN-WINDTRE IUNET,online,1671636096,1671580800,QakBot,Feodotracker
+89.203.252.238,443,,CZ,25512,CDT-AS The Czech Republic,offline,1671633394,1671580800,QakBot,Feodotracker
+202.142.98.62,443,,IN,17747,SITINETWORS-IN-AP SITI NETWORKS LIMITED,offline,1671600990,1671580800,QakBot,Feodotracker
+80.98.132.66,443,catv-80-98-132-66.catv.fixed.vodafone.hu,HU,21334,ASN-VODAFONE-,offline,1671568564,1671580800,QakBot,Feodotracker
+190.249.241.149,443,cable190-249-241-149.epm.net.co,CO,13489,EPM Telecomunicaciones S.A. E.S.P.,online,1671563173,1671580800,QakBot,Feodotracker
+206.166.209.170,2222,206-166-209-170-ama.pathwayz.com,US,54650,PWZCOM-AMA,offline,1671553269,1671580800,QakBot,Feodotracker
+181.4.227.82,443,host82.181-4-227.telecom.net.ar,AR,7303,Telecom Argentina S.A.,online,1671636637,1671580800,QakBot,Feodotracker
+24.69.84.237,443,S0106606c63be6953.pk.shawcable.net,CA,6327,SHAW,online,1671636990,1671580800,QakBot,Feodotracker
+50.86.217.209,443,,US,11272,TELEPAK-NETWORKS-INC,online,1667412869,1671667200,QakBot,Feodotracker
+71.46.234.171,443,071-046-234-171.res.spectrum.com,US,33363,BHN-33363,online,1669830399,1671667200,QakBot,Feodotracker
+173.178.151.233,443,modemcable233.151-178-173.mc.videotron.ca,CA,5769,VIDEOTRON,online,1671708650,1671667200,QakBot,Feodotracker
+24.9.220.167,443,c-24-9-220-167.hsd1.co.comcast.net,US,7922,COMCAST-7922,online,1666699531,1671667200,QakBot,Feodotracker
+89.115.196.99,443,99.196.115.89.rev.vodafone.pt,PT,12353,VODAFONE-PT Vodafone Portugal,offline,1667490206,1671667200,QakBot,Feodotracker
+81.250.33.243,2222,lfbn-ami-1-440-243.w81-250.abo.wanadoo.fr,FR,3215,France Telecom - Orange,online,1668710970,1671667200,QakBot,Feodotracker
+82.36.36.76,443,nmal-24-b2-v4wan-166357-cust1099.vm24.cable.virginm.net,GB,5089,NTL,offline,1668710972,1671667200,QakBot,Feodotracker
+86.195.14.72,2222,lfbn-idf1-1-291-72.w86-195.abo.wanadoo.fr,FR,3215,France Telecom - Orange,offline,1671553267,1671667200,QakBot,Feodotracker
+96.255.66.51,995,pool-96-255-66-51.washdc.fios.verizon.net,US,701,UUNET,offline,1671556875,1671667200,QakBot,Feodotracker
+65.95.85.172,2222,bras-base-okvlon0102w-grc-72-65-95-85-172.dsl.bell.ca,CA,577,BACOM,online,1671562271,1671667200,QakBot,Feodotracker
+27.0.48.233,443,233-48-0-27.vasaicable.co.in,IN,132573,SAINGN-AS-IN SAI NGN Network Services,offline,1671598279,1671667200,QakBot,Feodotracker
+95.23.15.84,2222,84.15.23.95.dynamic.jazztel.es,ES,12479,UNI2-AS,offline,1671647440,1671667200,QakBot,Feodotracker
+149.74.159.67,2222,67.pool149-74-159.dynamic.orange.es,ES,12479,UNI2-AS,offline,1671701448,1671667200,QakBot,Feodotracker
+173.209.185.159,443,,US,18624,CITYOFWILSONNC,offline,1667598005,1671753600,QakBot,Feodotracker
+2.14.140.222,2222,arennes-551-1-9-222.w2-14.abo.wanadoo.fr,FR,3215,France Telecom - Orange,online,1671808870,1671753600,QakBot,Feodotracker
+190.199.157.49,2222,190-199-157-49.dyn.dsl.cantv.net,VE,8048,"CANTV Servicios, Venezuela",online,1671808869,1671753600,QakBot,Feodotracker
+190.78.77.15,993,190-78-77-15.dyn.dsl.cantv.net,VE,8048,"CANTV Servicios, Venezuela",online,1671808869,1671753600,QakBot,Feodotracker
+31.120.202.209,443,,GB,2856,BT-UK-AS BTnet UK Regional network,online,1671808868,1671753600,QakBot,Feodotracker
+188.52.183.146,995,,SA,25019,SAUDINETSTC-AS,online,1671808867,1671753600,QakBot,Feodotracker
+82.31.37.241,995,cpc120098-hart11-2-0-cust240.11-3.cable.virginm.net,GB,5089,NTL,online,1671789598,1671753600,QakBot,Feodotracker
+86.98.223.237,443,bba575293.alshamil.net.ae,AE,5384,EMIRATES-INTERNET Emirates Internet,offline,1671769269,1671753600,QakBot,Feodotracker
+178.153.3.212,443,,QA,42298,GCC-MPLS-PEERING GCC MPLS peering,online,1671747296,1671753600,QakBot,Feodotracker
+70.51.134.110,2222,bras-vprn-ckvlon0127w-lp130-04-70-51-134-110.dsl.bell.ca,CA,577,BACOM,online,1671745857,1671753600,QakBot,Feodotracker
+178.142.126.181,443,dyndsl-178-142-126-181.ewe-ip-backbone.de,DE,9145,EWETEL Cloppenburger Strasse 310,online,1671745856,1671753600,QakBot,Feodotracker
+189.222.74.224,443,189.222.74.224.dsl.dyn.telnor.net,MX,8151,Uninet S.A. de C.V.,online,1671745856,1671753600,QakBot,Feodotracker
+51.199.123.42,443,33C77B2a.skybroadband.com,GB,5607,BSKYB-BROADBAND-AS,offline,1671745855,1671753600,QakBot,Feodotracker
+185.13.180.250,443,,FR,60032,CORIOLIS-AS,offline,1671745854,1671753600,QakBot,Feodotracker
+175.139.207.179,2222,,MY,4788,"TMNET-AS-AP TM Net, Internet Service Provider",online,1671725166,1671753600,QakBot,Feodotracker
+201.244.108.183,995,static-201-244-108-183.static.etb.net.co,CO,19429,ETB - Colombia,online,1671725165,1671753600,QakBot,Feodotracker
+125.20.112.94,443,,IN,9498,BBIL-AP BHARTI Airtel Ltd.,online,1671725164,1671753600,QakBot,Feodotracker
+86.222.191.162,2222,abayonne-654-1-48-162.w86-222.abo.wanadoo.fr,FR,3215,France Telecom - Orange,online,1671725164,1671753600,QakBot,Feodotracker
+2.82.10.152,443,bl21-10-152.dsl.telepac.pt,PT,3243,MEO-RESIDENCIAL,online,1671725160,1671753600,QakBot,Feodotracker
+51.211.219.211,443,,SA,25019,SAUDINETSTC-AS,online,1671647441,1671753600,QakBot,Feodotracker
+67.253.226.137,995,cpe-67-253-226-137.rochester.res.rr.com,US,11351,TWC-11351-NORTHEAST,online,1671644737,1671753600,QakBot,Feodotracker
+92.145.203.167,2222,amontpellier-554-1-92-167.w92-145.abo.wanadoo.fr,FR,3215,France Telecom - Orange,online,1671089469,1671753600,QakBot,Feodotracker
+83.114.60.6,2222,lfbn-idf3-1-470-6.w83-114.abo.wanadoo.fr,FR,3215,France Telecom - Orange,online,1668699685,1671753600,QakBot,Feodotracker
+204.210.210.7,443,204-210-210-007.res.spectrum.com,US,10796,TWC-10796-MIDWEST,offline,1667407458,1671753600,QakBot,Feodotracker
+103.231.104.124,443,,PS,12975,PALTEL-AS PALTEL Autonomous System,offline,1671796795,1671753600,QakBot,Feodotracker
+103.195.16.175,995,103.195.16.175.ip.alwaronline.net,IN,134280,ALWARONLINE-AS Alwar Online Pvt. Ltd.,offline,1671793551,1671753600,QakBot,Feodotracker
+173.76.49.61,443,pool-173-76-49-61.bstnma.fios.verizon.net,US,701,UUNET,online,1671808870,1671753600,QakBot,Feodotracker
+41.227.93.13,995,,TN,37693,TUNISIANA,online,1671809772,1671753600,QakBot,Feodotracker
