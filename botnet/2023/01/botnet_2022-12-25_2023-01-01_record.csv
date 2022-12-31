@@ -1,0 +1,33 @@
+ip_address,port,hostname,country,as_number,as_name,status,first_seen,timestamp,malware,source
+100.16.107.117,443,pool-100-16-107-117.bltmmd.fios.verizon.net,US,701,UUNET,online,1668487310,1671926400,QakBot,Feodotracker
+72.133.240.122,2083,cpe-72-133-240-122.mi.res.rr.com,US,10796,TWC-10796-MIDWEST,offline,1670848707,1671926400,QakBot,Feodotracker
+138.207.238.47,443,d-138-207-238-47.paw.cpe.atlanticbb.net,US,11776,ATLANTICBB-JOHNSTOWN,online,1668172862,1672012800,QakBot,Feodotracker
+71.112.212.166,443,pool-71-112-212-166.pitbpa.fios.verizon.net,US,701,UUNET,offline,1671701422,1672012800,QakBot,Feodotracker
+59.28.84.65,443,,KR,4766,KIXS-AS-KR Korea Telecom,offline,1671744950,1672012800,QakBot,Feodotracker
+83.7.53.22,443,abfp22.neoplus.adsl.tpnet.pl,PL,5617,TPNET,offline,1672050966,1672012800,QakBot,Feodotracker
+75.115.14.189,443,075-115-014-189.inf.spectrum.com,US,33363,BHN-33363,online,1672066635,1672012800,QakBot,Feodotracker
+86.178.217.180,443,host86-178-217-180.range86-178.btcentralplus.com,GB,2856,BT-UK-AS BTnet UK Regional network,online,1672066814,1672012800,QakBot,Feodotracker
+66.85.236.205,2222,host-66-85-236-205.MIDOLT3.epbfi.com,US,26827,EPBTELECOM,online,1670939943,1672099200,QakBot,Feodotracker
+46.24.136.17,2078,static-17-136-24-46.ipcom.comunitel.net,ES,12430,VODAFONE_ES,offline,1672127122,1672099200,QakBot,Feodotracker
+24.130.149.95,443,c-24-130-149-95.hsd1.ca.comcast.net,US,7922,COMCAST-7922,online,1672075776,1672099200,QakBot,Feodotracker
+76.9.168.249,443,host-76-9-168-249,US,30264,COLUMBIAPWS,online,1668626475,1672185600,QakBot,Feodotracker
+50.26.197.236,993,,US,19108,SUDDENLINK-COMMUNICATIONS,online,1672233312,1672185600,QakBot,Feodotracker
+85.85.34.201,993,201.85-85-34.dynamic.clientes.euskaltel.es,ES,12338,EUSKALTEL,offline,1672230052,1672185600,QakBot,Feodotracker
+93.156.96.104,443,cm-93-156-96-104.telecable.es,ES,12946,TELECABLE Spain,online,1672218368,1672185600,QakBot,Feodotracker
+186.64.67.12,443,host12.186-64-67.nodosud.com.ar,AR,27953,NODOSUD S.A,online,1672169770,1672185600,QakBot,Feodotracker
+188.48.85.14,995,,SA,25019,SAUDINETSTC-AS,online,1672169768,1672185600,QakBot,Feodotracker
+178.142.122.128,443,dyndsl-178-142-122-128.ewe-ip-backbone.de,DE,9145,EWETEL Cloppenburger Strasse 310,online,1672169767,1672185600,QakBot,Feodotracker
+193.253.100.236,2222,lreunion-656-1-14-236.w193-253.abo.wanadoo.fr,RE,3215,France Telecom - Orange,offline,1672233626,1672185600,QakBot,Feodotracker
+87.221.196.217,2222,217.196.221.87.dynamic.jazztel.es,ES,12479,UNI2-AS,online,1672169767,1672185600,QakBot,Feodotracker
+92.148.54.239,2222,lfbn-lil-1-847-239.w92-148.abo.wanadoo.fr,FR,3215,France Telecom - Orange,online,1671732866,1672185600,QakBot,Feodotracker
+86.196.35.232,2222,lfbn-orl-1-570-232.w86-196.abo.wanadoo.fr,FR,3215,France Telecom - Orange,offline,1671477308,1672185600,QakBot,Feodotracker
+51.183.20.212,443,33b714d4.skybroadband.com,GB,5607,BSKYB-BROADBAND-AS,offline,1670945362,1672185600,QakBot,Feodotracker
+85.61.165.153,2222,153.pool85-61-165.dynamic.orange.es,ES,12479,UNI2-AS,online,1667564980,1672185600,QakBot,Feodotracker
+103.252.7.228,443,dns9.parkpage.foundationapi.com,IN,132996,THREESAINFOWAY-AS Threesa Infoway Pvt.Ltd.,offline,1672200370,1672185600,QakBot,Feodotracker
+213.31.90.183,2222,183.90.31.213.dyn.plus.net,GB,6871,PLUSNET UK Internet Service Provider,online,1672169767,1672185600,QakBot,Feodotracker
+121.121.100.88,995,,MY,9534,MAXIS-AS1-AP Binariang Berhad,online,1672169766,1672185600,QakBot,Feodotracker
+74.214.61.68,443,d-74-214-61-68.md.cpe.atlanticbb.net,US,11776,ATLANTICBB-JOHNSTOWN,online,1672234202,1672185600,QakBot,Feodotracker
+88.152.182.39,443,ip-088-152-182-039.um26.pools.vodafone-ip.de,DE,3209,VODANET International IP-Backbone of Vodafone,offline,1668525633,1672272000,QakBot,Feodotracker
+99.229.146.120,443,cpe7c9a545abbeb-cm7c9a545abbe9.cpe.net.cable.rogers.com,CA,812,ROGERS-COMMUNICATIONS,online,1668518549,1672272000,QakBot,Feodotracker
+74.93.148.97,995,mail.dlconst.com,US,7922,COMCAST-7922,online,1670332122,1672358400,QakBot,Feodotracker
+201.210.79.16,2222,201-210-79-16.genericrev.cantv.net,VE,8048,"CANTV Servicios, Venezuela",online,1672399822,1672358400,QakBot,Feodotracker
