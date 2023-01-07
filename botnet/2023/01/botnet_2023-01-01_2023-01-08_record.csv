@@ -1,0 +1,9 @@
+ip_address,port,hostname,country,as_number,as_name,status,first_seen,timestamp,malware,source
+88.171.156.150,50000,iru64-1_migr-88-171-156-150.fbx.proxad.net,FR,12322,PROXAD,online,1667333703,1672531200,QakBot,Feodotracker
+188.79.182.186,2222,186.182.79.188.dynamic.jazztel.es,ES,12479,UNI2-AS,online,1670874843,1672531200,QakBot,Feodotracker
+86.139.213.115,443,host86-139-213-115.range86-139.btcentralplus.com,GB,2856,BT-UK-AS BTnet UK Regional network,online,1672330489,1672531200,QakBot,Feodotracker
+139.5.239.14,443,,IN,136334,VNPL-AS Vortex Netsol Private Limited,offline,1667542652,1672790400,QakBot,Feodotracker
+103.71.21.107,443,,IN,134004,FOXTEL-AS-IN Foxtel Telecommunications Pvt. Ltd.,offline,1670648336,1672790400,QakBot,Feodotracker
+58.162.223.233,443,,AU,1221,ASN-TELSTRA Telstra Corporation Ltd,online,1667407457,1672790400,QakBot,Feodotracker
+172.86.123.111,443,172-86-123-111.static.hvvc.us,US,29802,HVC-AS,offline,1672840239,1672790400,BumbleBee,Feodotracker
+70.160.80.210,443,ip70-160-80-210.hr.hr.cox.net,US,22773,ASN-CXA-ALL-CCI-22773-RDC,online,1669928397,1672876800,QakBot,Feodotracker
