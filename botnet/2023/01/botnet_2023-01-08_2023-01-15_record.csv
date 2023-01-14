@@ -1,0 +1,15 @@
+ip_address,port,hostname,country,as_number,as_name,status,first_seen,timestamp,malware,source
+74.83.128.70,2083,dsl-74-83-128-70.fuse.net,US,6181,FUSE-NET,offline,1670883855,1673222400,QakBot,Feodotracker
+114.79.144.210,443,114.79.144.210.dvois.com,IN,45769,DVOIS-IN D-Vois Broadband Pvt Ltd,offline,1672982076,1673222400,QakBot,Feodotracker
+97.93.192.2,2083,097-093-192-002.res.spectrum.com,US,20115,CHARTER-20115,offline,1669199679,1673222400,QakBot,Feodotracker
+24.206.27.39,443,,BS,15146,CABLEBAHAMAS,online,1666699530,1673308800,QakBot,Feodotracker
+182.162.143.56,443,,KR,3786,LGDACOM LG DACOM Corporation,online,1667382159,1673308800,Emotet,Feodotracker
+187.63.160.88,80,88.160.63.187.bitcom.com.br,BR,28169,BITCOM PROVEDOR DE SERVICOS DE INTERNET LTDA,online,1667387732,1673308800,Emotet,Feodotracker
+27.254.65.114,8080,,TH,9891,CSLOX-IDC-AS-AP CS LOXINFO Public Company Limited.,online,1667415938,1673308800,Emotet,Feodotracker
+109.133.67.116,995,,BE,5432,PROXIMUS-ISP-AS,online,1667036318,1673308800,QakBot,Feodotracker
+167.172.199.165,8080,,US,14061,DIGITALOCEAN-ASN,online,1667387731,1673308800,Emotet,Feodotracker
+83.213.192.136,443,136.83-213-192.dynamic.clientes.euskaltel.es,ES,12338,EUSKALTEL,online,1670690944,1673308800,QakBot,Feodotracker
+112.141.184.246,995,112-141-184-246.sta.dodo.net.au,AU,9443,VOCUS-RETAIL-AU Vocus Retail,online,1667019812,1673481600,QakBot,Feodotracker
+217.128.91.196,2222,laubervilliers-656-1-35-196.w217-128.abo.wanadoo.fr,FR,3215,France Telecom - Orange,online,1668699695,1673481600,QakBot,Feodotracker
+66.90.198.204,443,66-90-198-204.dyn.grandenetworks.net,US,7459,GRANDECOM-AS1,offline,1670945355,1673568000,QakBot,Feodotracker
+91.171.148.162,50000,91-171-148-162.subs.proxad.net,FR,12322,PROXAD,online,1673549389,1673568000,QakBot,Feodotracker
