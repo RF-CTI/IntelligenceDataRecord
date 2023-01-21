@@ -1,0 +1,2 @@
+ip_address,port,hostname,country,as_number,as_name,status,first_seen,timestamp,malware,source
+79.92.15.6,443,6.15.92.79.rev.sfr.net,FR,15557,LDCOMNET,online,1668540070,1673740800,QakBot,Feodotracker
